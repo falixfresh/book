@@ -32,7 +32,7 @@ Figuring out the common use cases is part of contributing to the book.
 
 It is not allowed to generate documentation solely with AI.
 New contributions must be correct and cannot contain _any_ hallucinations.
-Beginners should first use a module’s API by experimenting with it,
-then write the documentation about it.
+Beginners should first use a module’s API or commands by experimenting with it,
+then write the documentation.
 
 AI can be used to get an initial overview and an idea of where to start experimenting.
